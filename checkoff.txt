@@ -1,1 +1,0 @@
-It lists the remote connections to other repositiories. With other cubcommands, it helps to create, view, and modify these connections with other repositories.
